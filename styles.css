@@ -18,3 +18,7 @@ dialog{color:var(--text);border:none;padding:0}dialog::backdrop{background:#0608
 
 .author-avatar{width:88px;height:88px;padding:3px;flex:none}.author-avatar>img{width:100%;height:100%;object-fit:cover;border-radius:20px}
 @media(max-width:400px){.author-avatar{width:74px;height:74px}.author-avatar>img{border-radius:17px}}
+
+.community-section{padding-bottom:85px}.community-card{display:flex;align-items:center;gap:28px;padding:32px;border-radius:30px}.community-logo{width:96px;height:96px;object-fit:cover;border-radius:24px;flex:none}.community-copy{flex:1;min-width:0}.community-copy .eyebrow{margin-bottom:9px}.community-copy h2{font-size:30px;letter-spacing:-1px;margin:0}.community-copy>p:last-child{font-size:13px;line-height:1.7;color:var(--muted);margin:10px 0 0}.community-card>.button{flex:none}
+@media(max-width:800px){.community-section{padding-bottom:65px}.community-card{flex-wrap:wrap;padding:26px;gap:20px}.community-logo{width:74px;height:74px;border-radius:20px}.community-copy h2{font-size:25px}.community-copy .eyebrow{font-size:9px;letter-spacing:1.4px}.community-card>.button{width:100%}}
+
