@@ -1,0 +1,9 @@
+{
+  "packageName": "com.vxm.honor",
+  "versionCode": 9,
+  "versionName": "1.0.2",
+  "minSdk": 30,
+  "apkUrl": "https://vietng228.github.io/honor/downloads/HONOR-DEBLOAT-1.0.2.apk",
+  "sha256": "6b60646121533a360f158a66426eb1771f94b6792864031a89c39557b4c615f0",
+  "notes": "Icon HONOR DEBLOAT mới và cập nhật OTA."
+}
