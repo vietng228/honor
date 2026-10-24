@@ -1,9 +1,9 @@
 {
   "packageName": "com.vxm.honor",
-  "versionCode": 9,
-  "versionName": "1.0.2",
+  "versionCode": 14,
+  "versionName": "1.0.7",
   "minSdk": 30,
-  "apkUrl": "https://vietng228.github.io/honor/downloads/HONOR-DEBLOAT-1.0.2.apk",
-  "sha256": "6b60646121533a360f158a66426eb1771f94b6792864031a89c39557b4c615f0",
-  "notes": "Icon HONOR DEBLOAT mới và cập nhật OTA."
+  "apkUrl": "https://vietng228.github.io/honor/downloads/HONOR-DEBLOAT-1.0.7.apk",
+  "sha256": "a73a07521cb450f52f7eeb0da152cbfae0f17d43da938a07a22f8ec2876f1235",
+  "notes": "Profile Cấp quyền thông báo bật toàn bộ mục Tùy chỉnh được hỗ trợ, không gồm vị trí. Mặc định giữ quyền hiện tại. Hộp chọn profile Liquid Glass và hoàn tác profile."
 }
