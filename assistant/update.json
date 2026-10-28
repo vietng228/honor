@@ -1,8 +1,8 @@
 {
   "packageName": "com.vxm.assistant",
-  "versionCode": 21,
-  "versionName": "2.2.3",
-  "url": "https://github.com/vietng228/honor/releases/download/assistant-v2.2.3/Tro-ly-VXM-2.2.3-universal.apk",
-  "sha256": "058cd9e422e2c81e921bff27d6dcbaa1d43beafca4fb309029365fa5c2f13596",
-  "size": 53809643
+  "versionCode": 25,
+  "versionName": "2.2.5",
+  "url": "https://github.com/vietng228/honor/releases/download/assistant-v2.2.5/Tro-ly-VXM-2.2.5-universal.apk",
+  "sha256": "a68fcec72223d2d9c82137c49e893488f5fad9f8f5d5a2400f08e6924871ef6c",
+  "size": 53824370
 }
