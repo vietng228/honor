@@ -53,3 +53,6 @@ dialog{color:var(--text);border:none;padding:0}dialog::backdrop{background:#0608
 main>.assistant-section:first-child{padding-top:150px}
 .assistant-section+.hero{padding-top:60px}
 @media(max-width:800px){main>.assistant-section:first-child{padding-top:125px}.assistant-section+.hero{padding-top:35px}.nav-links a[href="#assistant"]{display:inline}}
+
+@media(max-width:800px){.nav-links{display:flex;gap:16px;margin-left:auto}.nav-links a[href="#home"]{display:inline}.nav-links a[href="#author"]{display:none}}
+@media(max-width:400px){.nav{gap:10px}.nav-links{gap:12px;font-size:10px}.nav .brand{font-size:10px;letter-spacing:.3px}}
