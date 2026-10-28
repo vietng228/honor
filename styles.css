@@ -48,3 +48,8 @@ dialog{color:var(--text);border:none;padding:0}dialog::backdrop{background:#0608
 @media(max-width:800px){.assistant-section{padding-block:30px 60px}.assistant-panel{grid-template-columns:1fr;gap:40px;padding:32px;border-radius:30px}.assistant-copy h2{font-size:43px}.assistant-description{font-size:21px}.assistant-icon{width:64px;height:64px;border-radius:20px}.assistant-icon img{width:48px;height:48px}.assistant-identity{gap:14px;margin-bottom:28px}.assistant-identity .release-chip{font-size:10px;padding:9px 12px}.assistant-phone{width:265px}.assistant-copy .download-meta{justify-content:flex-start}.hero-assistant-link{justify-content:center}}
 @media(max-width:650px){.nav-links a[href="#features"],.nav-links a[href="#screenshots"]{display:none}}
 @media(max-width:400px){.assistant-panel{padding:25px}.assistant-copy h2{font-size:38px}.assistant-description{font-size:19px}.assistant-identity{gap:10px}.assistant-identity .release-chip{font-size:9px;padding:8px 10px}.assistant-icon{width:54px;height:54px;border-radius:17px}.assistant-icon img{width:42px;height:42px}.assistant-actions .button{width:100%}}
+
+/* Đưa ứng dụng trợ lý lên đầu, giữ phần Debloat liền mạch. */
+main>.assistant-section:first-child{padding-top:150px}
+.assistant-section+.hero{padding-top:60px}
+@media(max-width:800px){main>.assistant-section:first-child{padding-top:125px}.assistant-section+.hero{padding-top:35px}.nav-links a[href="#assistant"]{display:inline}}
