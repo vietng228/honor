@@ -1,9 +1,9 @@
 {
   "packageName": "com.vxm.honor",
-  "versionCode": 28,
-  "versionName": "1.0.21",
+  "versionCode": 29,
+  "versionName": "1.0.22",
   "minSdk": 30,
-  "apkUrl": "https://vietng228.github.io/honor/downloads/HONOR-DEBLOAT-1.0.21.apk",
-  "sha256": "41340f5962c0d798d75cc77656dbcd954f5555d5de0e7c43119cc7891b34c7fd",
-  "notes": "Sửa kết nối sau pairing; thêm Quét cổng và Kết nối lại. Quét toàn bộ app, lọc Đang bật/Đã tắt, icon và mức độ gỡ UAD-ng. Giao diện Liquid Glass gọn, cấp quyền từng dòng, tải Gboard/CH Play trực tiếp."
+  "apkUrl": "https://vietng228.github.io/honor/downloads/HONOR-DEBLOAT-1.0.22.apk",
+  "sha256": "9373151afa8d275cfba96f215a3f30a7c54b6c7f4c6936f6356c483c12072f91",
+  "notes": "Tinh gọn mục Quyền: bấm tìm kiếm mới hiện ứng dụng có icon và tên đầy đủ. Chọn app, tích các quyền cơ bản app yêu cầu rồi cấp một lần; cuộc gọi toàn màn hình mở qua Cài đặt. Nút Bắt đầu tối ưu chạy nền và Doze theo BAT, tách riêng cấp quyền. Giữ ghép đôi qua thanh thông báo, quét cổng và kết nối self-ADB."
 }
