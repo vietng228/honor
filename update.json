@@ -1,9 +1,9 @@
 {
   "packageName": "com.vxm.honor",
-  "versionCode": 14,
-  "versionName": "1.0.7",
+  "versionCode": 22,
+  "versionName": "1.0.15",
   "minSdk": 30,
-  "apkUrl": "https://vietng228.github.io/honor/downloads/HONOR-DEBLOAT-1.0.7.apk",
-  "sha256": "a73a07521cb450f52f7eeb0da152cbfae0f17d43da938a07a22f8ec2876f1235",
-  "notes": "Profile Cấp quyền thông báo bật toàn bộ mục Tùy chỉnh được hỗ trợ, không gồm vị trí. Mặc định giữ quyền hiện tại. Hộp chọn profile Liquid Glass và hoàn tác profile."
+  "apkUrl": "https://vietng228.github.io/honor/downloads/HONOR-DEBLOAT-1.0.15.apk",
+  "sha256": "56b9c6da6c8e8c1785a2ff9ce74384e59e518a86bf8a2e4fcc6401306b4f003b",
+  "notes": "Ghép đôi từ thanh thông báo, thiết lập HONOR theo từng bước, Debloat và quản lý app chạy nền. Tối ưu tìm kiếm và cuộn danh sách."
 }
