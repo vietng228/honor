@@ -1,9 +1,9 @@
 {
   "packageName": "com.vxm.honor",
-  "versionCode": 22,
-  "versionName": "1.0.15",
+  "versionCode": 28,
+  "versionName": "1.0.21",
   "minSdk": 30,
-  "apkUrl": "https://vietng228.github.io/honor/downloads/HONOR-DEBLOAT-1.0.15.apk",
-  "sha256": "56b9c6da6c8e8c1785a2ff9ce74384e59e518a86bf8a2e4fcc6401306b4f003b",
-  "notes": "Ghép đôi từ thanh thông báo, thiết lập HONOR theo từng bước, Debloat và quản lý app chạy nền. Tối ưu tìm kiếm và cuộn danh sách."
+  "apkUrl": "https://vietng228.github.io/honor/downloads/HONOR-DEBLOAT-1.0.21.apk",
+  "sha256": "41340f5962c0d798d75cc77656dbcd954f5555d5de0e7c43119cc7891b34c7fd",
+  "notes": "Sửa kết nối sau pairing; thêm Quét cổng và Kết nối lại. Quét toàn bộ app, lọc Đang bật/Đã tắt, icon và mức độ gỡ UAD-ng. Giao diện Liquid Glass gọn, cấp quyền từng dòng, tải Gboard/CH Play trực tiếp."
 }
