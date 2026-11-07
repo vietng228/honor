@@ -1,9 +1,9 @@
 {
   "packageName": "com.vxm.honor",
-  "versionCode": 29,
-  "versionName": "1.0.22",
+  "versionCode": 31,
+  "versionName": "1.0.24",
   "minSdk": 30,
-  "apkUrl": "https://vietng228.github.io/honor/downloads/HONOR-DEBLOAT-1.0.22.apk",
-  "sha256": "9373151afa8d275cfba96f215a3f30a7c54b6c7f4c6936f6356c483c12072f91",
-  "notes": "Tinh gọn mục Quyền: bấm tìm kiếm mới hiện ứng dụng có icon và tên đầy đủ. Chọn app, tích các quyền cơ bản app yêu cầu rồi cấp một lần; cuộc gọi toàn màn hình mở qua Cài đặt. Nút Bắt đầu tối ưu chạy nền và Doze theo BAT, tách riêng cấp quyền. Giữ ghép đôi qua thanh thông báo, quét cổng và kết nối self-ADB."
+  "apkUrl": "https://vietng228.github.io/honor/downloads/HONOR-DEBLOAT-1.0.24.apk",
+  "sha256": "1f11fdada1cb08fa59cba8efaee0f6d460d46432cbd9a15381f14a7ef63b7ce0",
+  "notes": "Giao diện to rõ hơn: icon và tên app lớn, chữ và nút dễ bấm. Bỏ khóa bước, chuyển tab và chạy thiết lập theo thứ tự tùy ý. Thêm tab Terminal ADB: gõ lệnh shell hoặc adb shell qua kết nối không dây, có nút Dừng, lệnh nhanh, lịch sử. Chạy được file .sh (gõ tên file, tự tìm trong Download) và trả lời script hỏi lựa chọn bằng nút Gửi."
 }
