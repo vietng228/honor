@@ -82,10 +82,23 @@ main>.product-section:first-child{padding-top:150px}
 .product-preview{margin:0;min-width:0;display:flex;justify-content:center}
 .product-phone{width:260px;max-width:100%;transform:none}
 .product-phone img{width:100%;height:auto}
+.viet-ximi-section{padding-top:150px}
+.viet-ximi-section+.product-section{padding-top:25px}
+.viet-ximi-icon{background:#071e48;padding:8px}
+.viet-ximi-icon img{width:100%;height:100%;border-radius:18px}
+.product-lead{max-width:560px;margin:-12px 0 28px;color:#c8c6d4;font-size:16px;line-height:1.7}
+.release-note{display:grid;gap:7px;max-width:560px;margin:0 0 28px;padding:18px 20px;border-radius:20px;font-size:12px;line-height:1.6;color:#c8c6d4}
+.release-note strong{color:var(--mint);font-size:13px}
+.viet-ximi-poster{display:block;width:100%;margin-top:24px;padding:0;border-radius:30px;overflow:hidden;background:#07152d;box-shadow:0 20px 55px #0005}
+.viet-ximi-poster img{width:100%;height:auto}
+.viet-ximi-gallery{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px;margin-top:24px}
+.viet-ximi-gallery .screen-open{padding:0;border-radius:30px;overflow:hidden;background:#07152d;box-shadow:0 20px 55px #0005}
+.viet-ximi-gallery img{display:block;width:100%;height:auto}
 .author-section{padding-top:90px}
 @media(max-width:1100px){.product-panel{padding:42px;gap:36px;grid-template-columns:minmax(0,1fr) 260px}.product-copy h2{font-size:39px}}
 @media(max-width:800px){.product-panel{grid-template-columns:1fr;gap:44px;padding:34px;min-height:0;border-radius:30px}.product-copy h2{font-size:37px}.product-icon{width:64px;height:64px;border-radius:20px}.product-icon img{width:48px;height:48px}.product-benefits{font-size:13px;gap:16px;margin-bottom:30px}.product-identity{margin-bottom:26px}.product-phone{width:260px}.nav-links a:last-child,.nav-links a[href="#home"],.nav-links a[href="#assistant"],.nav-links a[href="#author"]{display:inline}.nav-links{display:flex;font-size:11px;gap:4px}.nav-links a{padding:9px 10px}.nav .brand{font-size:14px}.nav .brand img{width:36px;height:36px}.site-header{padding-inline:16px}}
-@media(max-width:600px){.nav{flex-direction:column;gap:10px;padding:13px 16px;border-radius:28px}.nav .brand{font-size:17px;gap:10px}.nav .brand img{width:36px;height:36px}.nav-links{display:flex;width:100%;justify-content:center;margin-left:0;font-size:12px;gap:8px}.nav-links a{padding:7px 11px}.product-section{padding-block:18px;scroll-margin-top:130px}main>.product-section:first-child{padding-top:160px}.author-section{padding-top:65px}}
+@media(max-width:800px){.viet-ximi-section{padding-top:135px}.product-lead{font-size:15px}.viet-ximi-poster,.viet-ximi-gallery .screen-open{border-radius:22px}.viet-ximi-gallery{gap:14px;margin-top:14px}.nav-links a[href="#author"],.nav-links .nav-telegram{display:none}}
+@media(max-width:600px){.nav{flex-direction:column;gap:10px;padding:13px 16px;border-radius:28px}.nav .brand{font-size:17px;gap:10px}.nav .brand img{width:36px;height:36px}.nav-links{display:flex;width:100%;justify-content:center;margin-left:0;font-size:12px;gap:8px}.nav-links a{padding:7px 11px}.product-section{padding-block:18px;scroll-margin-top:130px}main>.product-section:first-child{padding-top:160px}.author-section{padding-top:65px}.nav-links a[href="#weather"]{display:none}}
 @media(max-width:400px){.nav{gap:10px}.nav .brand{font-size:16px;letter-spacing:.3px}.nav-links{display:flex;font-size:11px;gap:6px}.nav-links a{padding:7px 10px}.product-panel{padding:27px}.product-copy h2{font-size:32px}.product-identity{gap:14px}.product-identity .release-chip{font-size:10px;padding:9px 12px}.product-actions{gap:18px}.product-actions .button{width:100%;font-size:12px}.product-icon{width:58px;height:58px;border-radius:19px}.product-icon img{width:44px;height:44px}}
 
 /* Honor Share App: thương hiệu chung, chữ rõ hơn, thẻ tác giả capsule. */
