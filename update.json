@@ -1,9 +1,9 @@
 {
   "packageName": "com.vxm.honor",
-  "versionCode": 32,
-  "versionName": "1.0.25",
+  "versionCode": 33,
+  "versionName": "1.0.26",
   "minSdk": 30,
-  "apkUrl": "https://vietng228.github.io/honor/downloads/HONOR-DEBLOAT-1.0.25.apk",
-  "sha256": "4cdc906364462b1c0d1846040f3dc69fb6c67f3d0c2977927bda205b8d559aa4",
-  "notes": "Thêm ô Cập nhật ở tab Nhật ký: báo khi có bản mới và tải ngay trong app. Giao diện to rõ hơn: icon và tên app lớn, chữ và nút dễ bấm. Bỏ khóa bước, chuyển tab và chạy thiết lập theo thứ tự tùy ý. Thêm tab Terminal ADB: gõ lệnh shell hoặc adb shell qua kết nối không dây, có nút Dừng, lệnh nhanh, lịch sử. Chạy được file .sh (gõ tên file, tự tìm trong Download) và trả lời script hỏi lựa chọn bằng nút Gửi."
+  "apkUrl": "https://vietng228.github.io/honor/downloads/HONOR-DEBLOAT-1.0.26.apk",
+  "sha256": "2c5ec1efb34f27c26f7e844f270db7e10576433a963a4547dd2ad95c78fbf628",
+  "notes": "Lưu ý: bản này đổi chữ ký, hãy gỡ bản cũ trước khi cài. Công tắc kiểu iOS cho Thiết lập (tự nhận trạng thái thật, tắt Play Protect qua ADB). Thêm công tắc 185Hz. Debloat: app hệ thống tắt bằng pm disable-user, app người dùng gỡ hẳn; lọc Người dùng/Hệ thống; bật lại app từ mục Đã tắt. Gộp Nhật ký vào tab Kết nối. Giao diện Liquid Glass rõ hơn, tràn màn hình, có vòng xoay khi đang chạy lệnh."
 }
